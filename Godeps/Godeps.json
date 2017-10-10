@@ -1,0 +1,30 @@
+{
+	"ImportPath": "LineBot",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/garyburd/redigo/internal",
+			"Comment": "v1.1.0-10-g70e1b19",
+			"Rev": "70e1b1943d4fc9c56791abaa6f4d1e727b9ab925"
+		},
+		{
+			"ImportPath": "github.com/garyburd/redigo/redis",
+			"Comment": "v1.1.0-10-g70e1b19",
+			"Rev": "70e1b1943d4fc9c56791abaa6f4d1e727b9ab925"
+		},
+		{
+			"ImportPath": "github.com/line/line-bot-sdk-go/linebot",
+			"Comment": "1.0.0-58-gb25432f",
+			"Rev": "b25432f2bcee69c27e303c1e18857316911c8c6c"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "66aacef3dd8a676686c7ae3716979581e8b03c47"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context/ctxhttp",
+			"Rev": "66aacef3dd8a676686c7ae3716979581e8b03c47"
+		}
+	]
+}
